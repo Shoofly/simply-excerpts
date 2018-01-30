@@ -1,27 +1,29 @@
 ﻿=== Plugin Name ===
 Contributors: nomadcoder
-Donate link: https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=gqjtYzw8TuOyQvmQDK0qTTaTyzz5z36k0xjc6N4cTQ8KzTc7asPw59FljVq&dispatch=5885d80a13c0db1f8e263663d3faee8d96f000117187ac9edec8a65b311f447e
+Donate link: Donate link:https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FTBD2UDXFJDB6
 Tags: Excerpts, Word Count, Read More
-Requires at least: 
-Tested up to: 4.3
+Requires at least:
+Tested up to: 4.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A simple plugin for exceprts that allows you to change the word count and to replace the elipsis (...) with text. 
+A simple plugin for exceprts that allows you to change the word count and to replace the elipsis (...) with text.
 
-For quicker support, please visit our website www.shooflysolutions.com 
- 
-Please be kind and rate this plugin. Everything helps! 
+
 
 
 == Description ==
-Version 1.0
+Version 1.2
 
-Donations for extended support are appreciated but are never required!  
+Donations for extended support are appreciated but are never required!
 
-This plugin is a very simple plugin the allows you to change the number of words that are displayed in excerpts and to replace the elipsis with text.  
+For quicker support, please visit our website www.shooflysolutions.com
 
-The settings for this plugin can be found on the Settings Menu in the Admin Panel. Check the box for the option you wish to manage and enter the value. There are two options: "Maximum number of words to display in an excerpt" and "Read More Text". You should not use this plugin with other plugins that modify excerpts. 
+Please be kind and rate this plugin. Everything helps!
+
+This plugin is a very simple plugin the allows you to change the number of words that are displayed in excerpts and to replace the elipsis with text.
+
+The settings for this plugin can be found on the Settings Menu in the Admin Panel. Check the box for the option you wish to manage and enter the value. There are two options: "Maximum number of words to display in an excerpt" and "Read More Text". You should not use this plugin with other plugins that modify excerpts.
 == Installation ==
 
 Download the Plugin
@@ -59,6 +61,10 @@ Please visit the FAQ page on our site at <a href="http://www.shooflysolutions.co
 1. Settings
 
 == Changelog ==
+* =1.2
+* Update version information
+* =1.1
+* Add recommended script check and escape output, fix tested till, correct donation link
 * =1.0
 * Initial release
 
